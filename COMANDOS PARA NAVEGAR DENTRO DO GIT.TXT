@@ -1,0 +1,19 @@
+WINDOS: 
+-cd: para navegar para uma pasta especifica
+-dir : para se localizar e listar as pastas em que esta 
+-mkdir : PARA CRIAR UMA PASTA 
+-del/rmdir: para remover uma pasta/ repositorio
+-cls: para limpar o prompt
+- TAB TEM A FUNÇÃO DE AUTOCOMPLETAR A PALAVRA
+o simbolo de > é um  REDIRECIONADOR DE FLUXO,serve para redirecionar
+a saida de uma função para uma pasta.
+-cd.. : serve para sair de uma pasta 
+-mv: para mover pastas/arquivos para outras pastas 
+- push: empurrar um arquivo 
+- pool: puxar um arquivo
+LINUX: 
+-cd:para navegar para uma pasta especifica
+-ls:para se localizar e listar as pastas em que esta 
+-mkdir:PARA CRIAR UMA PASTA
+-rm-rf:para remover uma pasta/ repositorio
+-clear: para limpar o prompt
